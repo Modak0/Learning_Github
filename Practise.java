@@ -16,17 +16,4 @@ class Practise {
     }
     
 }
-// class Student {
-//     int id;
-//     String name;
 
-//     Student() {
-//         this(101, "John");
-//         System.out.println("Default constructor called");
-//     }
-
-//     Student(int id, String name) {
-//         this.id = id;
-//         this.name = name;
-//     }
-// }
